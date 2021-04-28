@@ -1,6 +1,5 @@
 # GridGarden
-CSS GRID GARDEN 
-My answers:
+CSS GRID GAarden Answers:
 
 Level 1
 grid-column-start: 3;
@@ -9,7 +8,7 @@ Level 2
 grid-column-start: 5;
 
 Level 3
-grid-colunn-end: 4;
+grid-column-end: 4;
 
 Level 4
 grid-column-end: 2;
